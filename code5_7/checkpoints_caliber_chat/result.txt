@@ -1,0 +1,18 @@
+Saved model weights to checkpoints_caliber_chat\model.pth
+Loaded model weights from ./checkpoints_caliber_chat/model.pth
+
+Test Set Metrics:
+  accuracy: 0.8313
+  precision: 0.6468
+  recall: 0.4974
+  f1: 0.5624
+  mcc: 0.4662
+  bacc: 0.7109
+  auc_roc: 0.8328
+  auc_pr: 0.6270
+
+Saved predictions and true labels to ./checkpoints_caliber_chat/predictions.csv
+Saved training loss plot to ./checkpoints_caliber_chat/loss.png
+Saved ROC curve to ./checkpoints_caliber_chat/roc_curve.png
+Saved Precision-Recall curve to ./checkpoints_caliber_chat/pr_curve.png
+Saved confusion matrix to ./checkpoints_caliber_chat/confusion_matrix.png
